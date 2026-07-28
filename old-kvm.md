@@ -1,0 +1,1 @@
+JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64 javaws   -J--add-exports=java.base/jdk.internal.util.jar=ALL-UNNAMED   -J--add-exports=java.base/sun.security.action=ALL-UNNAMED   -J--add-exports=java.base/com.sun.net.ssl.internal.ssl=ALL-UNNAMED 11.jnlp
